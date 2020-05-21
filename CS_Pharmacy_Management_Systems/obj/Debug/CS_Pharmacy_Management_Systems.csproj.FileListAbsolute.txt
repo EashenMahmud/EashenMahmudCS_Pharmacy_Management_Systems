@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\bin\Debug\Pharmacy.accdb
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\bin\Debug\CS_Pharmacy_Management_Systems.exe.config
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\bin\Debug\CS_Pharmacy_Management_Systems.exe
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\bin\Debug\CS_Pharmacy_Management_Systems.pdb
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.Form1.resources
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.Form2.resources
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.Form3.resources
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.Form4.resources
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.Form5.resources
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.Form6.resources
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.Form7.resources
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.Properties.Resources.resources
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.exe
+C:\Users\DELL\source\repos\CS_Pharmacy_Management_Systems\CS_Pharmacy_Management_Systems\obj\Debug\CS_Pharmacy_Management_Systems.pdb
